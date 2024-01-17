@@ -42,7 +42,7 @@ function App() {
     <>
     <Navbar bg="dark" expand="lg" variant="dark">
       <Container fluid>
-        <Navbar.Brand href="/task3moviesCatalogue">Movies Catalogue</Navbar.Brand>
+        <Navbar.Brand href="/home">Movies Catalogue</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll"></Navbar.Toggle>
 
           <Navbar.Collapse id="nabarScroll">
